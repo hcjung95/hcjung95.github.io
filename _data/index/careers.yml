@@ -1,29 +1,71 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Company A
-    i18n: company_a
-  desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
-  date:
-    detail: Apr. 2016
-    i18n: company_a_date
-  job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
-
-- name:
-    detail: Company B
+  - name:
+    detail: 이사
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail:  캣타워 추가 예정 
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: 19.01.27
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: 망고 패밀리
     i18n: company_b_job
+  icon: fa-plus-square
+
+  - name:
+    detail: 예방 접종
+    i18n: company_b
+  desc:
+    detail:  n차, 목덜미
+    i18n: company_b_desc
+  date:
+    detail: 19.01.08
+    i18n: company_b_date
+  job:
+    detail: 망고 집사 부인
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+ - name:
+    detail: 예방 접종
+    i18n: company_b
+  desc:
+    detail: n차, 뒷다리 - 특이사항 : 구토
+    i18n: company_b_desc
+  date:
+    detail: 18.11.25
+    i18n: company_b_date
+  job:
+    detail: 망고 집사 부인
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: 입양
+    i18n: company_b
+  desc:
+    detail: '라떼' → '망고' 개명
+    i18n: company_b_desc
+  date:
+    detail: 18.11.09
+    i18n: company_b_date
+  job:
+    detail: 망고 집사
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: 출생
+    i18n: company_a
+  desc:
+    detail: 스코티쉬 스트레이트, 수컷, 이름 : 라떼
+    i18n: company_a_desc
+  date:
+    detail: 18.10.08
+    i18n: company_a_date
+  job:
+    detail: 망고 전주인
+    i18n: company_a_job
   icon: fa-plus-square
