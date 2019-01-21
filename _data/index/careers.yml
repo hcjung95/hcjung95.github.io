@@ -4,7 +4,7 @@
     detail: 이사
     i18n: company_b
   desc:
-    detail:  캣타워 추가 예정 
+    detail: 캣타워 추가 예정 
     i18n: company_b_desc
   date:
     detail: 19.01.27
@@ -18,7 +18,7 @@
     detail: 예방 접종
     i18n: company_b
   desc:
-    detail:  n차, 목덜미
+    detail: n차, 목덜미
     i18n: company_b_desc
   date:
     detail: 19.01.08
