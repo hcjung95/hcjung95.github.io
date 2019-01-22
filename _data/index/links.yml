@@ -1,18 +1,12 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: 남
+  first_name: 집사
+  desc: 개발자
+  website: https://github.com/hcjung95
+  email: heechan9173@gmail.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
-
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: 여
+  first_name: 집사
+  desc: 간호사
+  website: 
+  email: zeze4533@naver.com
