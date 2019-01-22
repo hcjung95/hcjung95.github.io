@@ -43,6 +43,20 @@
   icon: fa-plus-square
 
 - name:
+    detail: 입양
+    i18n: company_b
+  desc:
+    detail: 라떼ㅡ망고 개명
+    i18n: company_b_desc
+  date:
+    detail: 18.12.09
+    i18n: company_b_date
+  job:
+    detail: 망고 여집사
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
     detail: 예방 접종
     i18n: company_b
   desc:
@@ -57,20 +71,6 @@
   icon: fa-plus-square
 
 - name:
-    detail: 입양
-    i18n: company_b
-  desc:
-    detail: 라떼ㅡ망고 개명
-    i18n: company_b_desc
-  date:
-    detail: 18.11.09
-    i18n: company_b_date
-  job:
-    detail: 망고 여집사
-    i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
     detail: 출생
     i18n: company_b
   desc:
@@ -80,6 +80,6 @@
     detail: 18.10.08
     i18n: company_b_date
   job:
-    detail: 망고 전주인
+    detail: 망고 전 주인
     i18n: company_b_job
   icon: fa-plus-square
