@@ -32,7 +32,7 @@
     detail: 예방 접종
     i18n: company_b
   desc:
-    detail: 2차, 펠리샷, 뒷다리 - 특이사항 : 구토, 안구부종
+    detail: 2차, 펠리샷, 뒷다리  _특이사항 : 구토, 안구부종
     i18n: company_b_desc
   date:
     detail: 18.12.18
