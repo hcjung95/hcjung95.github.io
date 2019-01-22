@@ -18,12 +18,68 @@
     detail: 예방 접종
     i18n: company_b
   desc:
-    detail: n차, 목덜미
+    detail: 3차, 펠리샷, 목덜미
     i18n: company_b_desc
   date:
     detail: 19.01.08
     i18n: company_b_date
   job:
-    detail: 망고 집사 부인
+    detail: 망고 여집사
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: 예방 접종
+    i18n: company_b
+  desc:
+    detail: 2차, 펠리샷, 뒷다리 - 특이사항 : 구토, 안구부종
+    i18n: company_b_desc
+  date:
+    detail: 18.12.18
+    i18n: company_b_date
+  job:
+    detail: 망고 여집사
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: 예방 접종
+    i18n: company_b
+  desc:
+    detail: 1차
+    i18n: company_b_desc
+  date:
+    detail: 18.11.28
+    i18n: company_b_date
+  job:
+    detail: 망고 전 주인
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: 입양
+    i18n: company_b
+  desc:
+    detail: '라떼' → '망고' 개명
+    i18n: company_b_desc
+  date:
+    detail: 18.11.09
+    i18n: company_b_date
+  job:
+    detail: 망고 여집사
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: 출생
+    i18n: company_b
+  desc:
+    detail: 스코티쉬 스트레이트, 수컷, 이름 : 라떼
+    i18n: company_b_desc
+  date:
+    detail: 18.10.08
+    i18n: company_b_date
+  job:
+    detail: 망고 전주인
     i18n: company_b_job
   icon: fa-plus-square
